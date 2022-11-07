@@ -1,0 +1,11 @@
+﻿happy
+sad
+emotions
+glad
+mad
+angry
+lovey
+furious
+cute
+kawaii
+explosive
