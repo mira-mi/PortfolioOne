@@ -1,4 +1,5 @@
-# PortfolioOne
+# Algorithms
+Hi, my name is Maya and I made this portfolio for a class. This is my first portfolio for coding so please forgive me if I'm not good at doing this.
 
 This is my first portfolio for this class. I am in Algorithms this year and I have data structures, fisher yates, and big O notation.
 This code has been cleaned and taken care of to show my understanding of each.
