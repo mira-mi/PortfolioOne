@@ -10,14 +10,17 @@ Big O notation is composed of:
 - a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity
 It is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
 It is referred to as the order of the function. 
+[https://github.com/mira-mi/PortfolioOne/tree/main/AssignmentOne-CodeExamples-master/AssignmentOne-CodeExamples-master] link to the code
 
 Fisher-Yates Shuffle is compsosed of:
  - an algorithm for generating random permutation of an infinite sequence in plain terms, the algorithm shuffles the sequence.
 It produces an unbiased permutation, which means that each set is likely.
+[https://github.com/mira-mi/PortfolioOne/tree/main/FisherYatesShuffle] link to the code
 
 Data structures is composed of:
   - is a named location that can be used to store and organize data
  It is seen as a collection of steps to solve a particular problem
+ [https://github.com/mira-mi/PortfolioOne/tree/main/DataStructures-master/DataStructures-master] link to the code
  
  That it is all that is involved with this portfolio.
  
