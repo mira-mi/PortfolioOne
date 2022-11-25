@@ -6,7 +6,7 @@ This code has been cleaned and taken care of to show my understanding of each.
 
 The code for each algorithm has been included in this portfolio
 
-Big O notation is composed of:
+##Big O notation is composed of:
 - a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity
 It is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
 It is referred to as the order of the function. 
@@ -21,6 +21,8 @@ Data structures is composed of:
   - is a named location that can be used to store and organize data
  It is seen as a collection of steps to solve a particular problem
  [https://github.com/mira-mi/PortfolioOne/tree/main/DataStructures-master/DataStructures-master] link to the code
+ 
+ 
  
  That it is all that is involved with this portfolio.
  
