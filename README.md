@@ -34,7 +34,9 @@ It produces an unbiased permutation, which means that each set is likely.
 contains a summary at the end of all this
 - Each one like the sorting one comes with descriptions of each one including best and worst case as well as puesdocode
 - this portfolio contains linear, binary, and interpolation searching.
+Here's the link for this one: [https://github.com/mira-mi/SearchingAlgo]
 
 ## AssignTrees: Trees
 - this project is to show how to use tree nodes using the dictionary function in c#. I had to also show a sorting algorithm of my choice in this one. I chose bubble
 sorting for this one.
+Here's the link for this one: [https://github.com/mira-mi/AssignTrees]
