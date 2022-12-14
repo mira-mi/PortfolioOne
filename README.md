@@ -6,27 +6,35 @@ This code has been cleaned and taken care of to show my understanding of each.
 
 The code for each algorithm has been included in this portfolio
 
-# Big O notation is composed of:
+## Big O notation is composed of:
 - a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity
 It is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
 It is referred to as the order of the function. 
 [https://github.com/mira-mi/PortfolioOne/tree/main/AssignmentOne-CodeExamples-master/AssignmentOne-CodeExamples-master] link to the code
 
-# Fisher-Yates Shuffle is compsosed of:
+## Fisher-Yates Shuffle is compsosed of:
  - an algorithm for generating random permutation of an infinite sequence in plain terms, the algorithm shuffles the sequence.
 It produces an unbiased permutation, which means that each set is likely.
 [https://github.com/mira-mi/PortfolioOne/tree/main/FisherYatesShuffle] link to the code
 
-# Data structures is composed of:
+## Data structures is composed of:
   - is a named location that can be used to store and organize data
  It is seen as a collection of steps to solve a particular problem
  [https://github.com/mira-mi/PortfolioOne/tree/main/DataStructures-master/DataStructures-master] link to the code
  
- # AssignV:Sorting
+ ## AssignV:Sorting
  - this project was about sorting data sets with multiple algorithms. Here I made multiple algorithms and gave each one a timer to see how long each one took
  and there was provided in a summary in the end
  - Each algorithm was comes with best and worst case as well as a description and puesdo code to see how each one fuctions before it is coded in c#
  - this portfolio consists of bubble, insertion, heap, quick, selection, and merge sort.
  [https://github.com/mira-mi/AssignV] link to code
- That it is all that is involved with this portfolio.
- 
+
+## SearchingAlo: Searching
+- this project is more about learning searching algorithms and how they work. I had to also give these a timer to see how long each one took and which and each one
+contains a summary at the end of all this
+- Each one like the sorting one comes with descriptions of each one including best and worst case as well as puesdocode
+- this portfolio contains linear, binary, and interpolation searching.
+
+## AssignTrees: Trees
+- this project is to show how to use tree nodes using the dictionary function in c#. I had to also show a sorting algorithm of my choice in this one. I chose bubble
+sorting for this one.
