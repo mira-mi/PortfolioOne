@@ -45,3 +45,5 @@ function binary_search(A, n, T) is
 -Best case: O (log log n)
 -Worst case:  O(n)
 -This one tends to work if the data set in already sorted and uniformly distributed
+
+(puesdo code and help was found here https://www.tutorialspoint.com/Interpolation-Search)
