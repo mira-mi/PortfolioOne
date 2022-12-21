@@ -1,7 +1,8 @@
 # Algorithms Portfolio
 Hi, my name is Maya and I made this portfolio for a class. This is my first portfolio for coding so please forgive me if I'm not good at doing this.
 
-This is my first portfolio for this class. I am in Algorithms this year and I have data structures, fisher yates, and big O notation.
+This is my first portfolio for this class. I am in Algorithms this year and I have data structures, fisher yates, big O notation, different types of searching 
+as well as sorting, and tree nodes. All the code for this is in c#, that is my main language this year.
 This code has been cleaned and taken care of to show my understanding of each.
 
 The code for each algorithm has been included in this portfolio
