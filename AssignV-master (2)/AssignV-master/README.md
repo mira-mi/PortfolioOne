@@ -15,7 +15,7 @@ Memory: O(1) to O(n)
 Runtime: O(n2) average and worst case
 Memory: O(1)
 
-- Heao Sort: a comparison-based sort-in-place algorithm that takes no extra storage. It is often described as an improved selection sort. It has an O(n log n) run time. 
+- Heap Sort: a comparison-based sort-in-place algorithm that takes no extra storage. It is often described as an improved selection sort. It has an O(n log n) run time. 
 Asymptotically O(n log n) is the fastest possible for an algorithm that sorts by using comparisons (although quicksort usually runs a bit faster). 
 Like selection sort: heapsort divides the input into sorted and unsorted areas.
 Unlike selection sort: maintains the unsorted area in a heap data structure which allows the largest element in each step to be found more quickly.
